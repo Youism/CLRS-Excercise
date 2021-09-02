@@ -1,4 +1,4 @@
-# Personal Exercise in Introduction To Algorithm
+# Personal Exercise in CLRS
 
 The implementation of the Pseudocodes on the book. 
 
